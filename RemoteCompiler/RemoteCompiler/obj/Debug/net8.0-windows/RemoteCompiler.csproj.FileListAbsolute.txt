@@ -1,0 +1,14 @@
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\bin\Debug\net8.0-windows\RemoteCompiler.exe
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\bin\Debug\net8.0-windows\RemoteCompiler.deps.json
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\bin\Debug\net8.0-windows\RemoteCompiler.runtimeconfig.json
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\bin\Debug\net8.0-windows\RemoteCompiler.dll
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\bin\Debug\net8.0-windows\RemoteCompiler.pdb
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\obj\Debug\net8.0-windows\RemoteCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\obj\Debug\net8.0-windows\RemoteCompiler.AssemblyInfoInputs.cache
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\obj\Debug\net8.0-windows\RemoteCompiler.AssemblyInfo.cs
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\obj\Debug\net8.0-windows\RemoteCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\obj\Debug\net8.0-windows\RemoteCompiler.dll
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\obj\Debug\net8.0-windows\refint\RemoteCompiler.dll
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\obj\Debug\net8.0-windows\RemoteCompiler.pdb
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\obj\Debug\net8.0-windows\RemoteCompiler.genruntimeconfig.cache
+C:\Users\Cv\Desktop\New folder (2)\RemoteCompiler\RemoteCompiler\obj\Debug\net8.0-windows\ref\RemoteCompiler.dll
