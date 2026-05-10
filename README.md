@@ -372,6 +372,6 @@ MIT License — free to use, modify, and distribute.
 
 <div align="center">
 
-Built with ❤️ using C# · .NET 8 · WinForms
+Built with Bydii'S using C# · .NET 8 · WinForms
 
 </div>
