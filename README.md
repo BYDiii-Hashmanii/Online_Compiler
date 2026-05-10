@@ -21,7 +21,7 @@ Write C++ code on the client, compile and run it on the server — all in real t
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Details |
 |---|---|
@@ -37,7 +37,7 @@ Write C++ code on the client, compile and run it on the server — all in real t
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -80,7 +80,7 @@ Client                          Server
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -162,7 +162,7 @@ The app launches with the dark-themed UI.
 
 ---
 
-## 🖱️ Usage
+##  Usage
 
 ### Starting the Server
 
